@@ -1,4 +1,4 @@
-# Mindful Retreats
+# Mindful Retreats For Sri Lanka
 
 Mindful Retreats is a web application for finding and listing mindfulness retreats. It's built with Next.js, React, Tailwind CSS, shadcn/ui, and uses PostgreSQL with DrizzleORM for the backend.
 
